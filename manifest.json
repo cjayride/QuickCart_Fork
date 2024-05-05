@@ -1,0 +1,9 @@
+{
+    "name": "QuickCart",
+    "version_number": "0.4.0",
+    "website_url": "https://github.com/cjayride/QuickCart_Fork",
+    "description": "Fork of aedenthorn/QuickCart for v0.217.46+ Allows quick attach / detach carts via a hotkey, even when not in position.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}

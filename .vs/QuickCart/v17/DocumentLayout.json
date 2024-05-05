@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\QuickCart_Fork-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC933CFC-6B53-4CA1-B116-F9863493349B}|QuickCart\\QuickCart.csproj|c:\\users\\administrator\\documents\\valheim-modding\\quickcart_fork-main\\quickcart\\bepinexplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC933CFC-6B53-4CA1-B116-F9863493349B}|QuickCart\\QuickCart.csproj|solutionrelative:quickcart\\bepinexplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC933CFC-6B53-4CA1-B116-F9863493349B}|QuickCart\\QuickCart.csproj|c:\\users\\administrator\\documents\\valheim-modding\\quickcart_fork-main\\quickcart\\quickcart.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CC933CFC-6B53-4CA1-B116-F9863493349B}|QuickCart\\QuickCart.csproj|solutionrelative:quickcart\\quickcart.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuickCart",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\QuickCart_Fork-main\\QuickCart\\QuickCart.csproj",
+              "RelativeDocumentMoniker": "QuickCart\\QuickCart.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\QuickCart_Fork-main\\QuickCart\\QuickCart.csproj",
+              "RelativeToolTip": "QuickCart\\QuickCart.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T14:55:43.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BepInExPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\QuickCart_Fork-main\\QuickCart\\BepInExPlugin.cs",
+              "RelativeDocumentMoniker": "QuickCart\\BepInExPlugin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\QuickCart_Fork-main\\QuickCart\\BepInExPlugin.cs",
+              "RelativeToolTip": "QuickCart\\BepInExPlugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:54:24.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
